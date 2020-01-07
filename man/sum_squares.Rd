@@ -10,12 +10,11 @@ sum_squares(v)
 \item{v}{numeric vector}
 }
 \value{
-
+number
 }
 \description{
-returns the sum of the squared deviations from mean, SS(x) of a numberic vector
+returns the sum of the squared deviations from mean, SS(x) of a numneric vector
 }
 \examples{
 sum_squares(rnorm(50))
-
 }

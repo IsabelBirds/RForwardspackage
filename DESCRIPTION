@@ -1,5 +1,5 @@
 Package: RForwardspackage
-Title: Some simple utilites for a large sample
+Title: Some simple utilities for a large sample
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Isabel",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "is.birds@btinternet.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Created as part of a RFowards Workshop. University of York, Jan 2020
+Description: Created as part of an RFowards Workshop. University of York, Jan 2020.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

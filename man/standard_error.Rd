@@ -10,8 +10,11 @@ standard_error(x)
 \item{x}{numeric vector}
 }
 \value{
-
+number
 }
 \description{
-Calculate the standard error of a sample
+returns the standard error of a numeric vector
+}
+\examples{
+standard_error(rnorm(50))
 }
