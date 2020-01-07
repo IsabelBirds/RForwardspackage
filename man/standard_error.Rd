@@ -4,12 +4,10 @@
 \alias{standard_error}
 \title{Calculate the standard error of a sample}
 \usage{
-standard_error(x, n)
+standard_error(x)
 }
 \arguments{
 \item{x}{numeric vector}
-
-\item{n}{numeric vector}
 }
 \value{
 
