@@ -1,14 +1,14 @@
 Package: RForwardspackage
-Title: What the Package Does (One Line, Title Case)
+Title: Some simple utilites for a large sample
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Isabel",
+           family = "Birds",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "is.birds@btinternet.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: Created as part of a RFowards Workshop. University of York, Jan 2020
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/IsabelBirds/RForwardspackage
