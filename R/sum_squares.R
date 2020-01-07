@@ -8,3 +8,7 @@
 #' @export
 #'
 #' @examples sum_squares(rnorm(50))
+#'
+sum_squares <- function(v) {
+sum((v - mean(v))^2)
+}
